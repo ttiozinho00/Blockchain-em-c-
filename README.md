@@ -40,7 +40,7 @@ Transactions left in pool: 9400
  ```
  
  ## How to run
- - `https://github.com/emilisb/Blockchain2`
- - `cd Blockchain2`
+ - `https://github.com/ttiozinho00/Blockchain-em-cpp`
+ - `cd Blockchain-em-cpp`
  - `make`
  - `./bin/blockchain`
